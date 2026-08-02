@@ -1,0 +1,16 @@
+# Sensitive Environment Variables (CRITICAL)
+.env
+
+# Python Caches & Environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor Settings & Workspace Files
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary Office Files (Word/Excel lock files visible in your screenshot)
+~$*
